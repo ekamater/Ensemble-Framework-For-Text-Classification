@@ -17,8 +17,8 @@ To validate the effectiveness of ensemble systems against SotA methods, we condu
 ### USPTO-2M
 [Multi-label training and evaluation - USPTO-2M (Arousha) dataset](https://github.com/ekamater/Ensemble-Framework-for-Text-Classification/blob/main/experiments/Multi-label%20training%20and%20evaluation%20-%20USPTO-2M%20(Arousha)%20dataset%20-%20public.ipynb)
 
-### EURLEX57K
-[Multi-label training and evaluation - Eurlex dataset](https://github.com/ekamater/Ensemble-Framework-for-Text-Classification/blob/d2ffe1c34a1a3bd6b434486a6cf4240a861e35a8/experiments/Multi-label%20training%20and%20evaluation%20-%20Eurlex%20dataset%20-%20public.ipynb)
-
 ### WoS dataset
 [Single-label training and evaluation - WoS dataset](https://github.com/ekamater/Ensemble-Framework-for-Text-Classification/blob/main/experiments/Single-label%20training%20and%20evaluation%20-%20WoS%20dataset%20-%20public.ipynb) 
+
+### EURLEX57K
+[Multi-label training and evaluation - Eurlex dataset](https://github.com/ekamater/Ensemble-Framework-for-Text-Classification/blob/d2ffe1c34a1a3bd6b434486a6cf4240a861e35a8/experiments/Multi-label%20training%20and%20evaluation%20-%20Eurlex%20dataset%20-%20public.ipynb)
