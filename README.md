@@ -1,5 +1,7 @@
 ## This code belongs to the paper "An Ensemble Framework for Text Classification"
-This code has been created for running the experiments for the paper "An Ensemble Framework for Text Classification". Specifically, the repository contains two main folders. The first folder is named "experiments" and contains the experiments made in the CLEFIP-0.54M, WIPO-alpha, USPTO-2M, WoS and EURLEX57K. The second folder is named "datasets" and provides links and other details for the datasets. 
+This code has been created for running the experiments for the paper "An Ensemble Framework for Text Classification". 
+
+Specifically, the repository contains two main folders. The first folder is named **experiments** and contains the experiments made in the CLEFIP-0.54M, WIPO-alpha, USPTO-2M, WoS and EURLEX57K. The second folder is named **datasets** and provides links and other details for the datasets. Moreover, the stopword list used for the preprocessing is available here: https://drive.google.com/file/d/1QgVcHXTiCdf1mDewqd39g2CHDVqfeUKO/view?usp=drive_link.
 
 Please cite our work as follows:
 
