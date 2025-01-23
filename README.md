@@ -12,7 +12,7 @@ Please cite our work as follows:
 
 **OR**
 
-Citation: Kamateri, E.; Salampasis, M. An Ensemble Framework for Text Classification. Information 2025, 16, x. https://doi.org/10.3390/xxxxx
+Kamateri, E.; Salampasis, M. An Ensemble Framework for Text Classification. Information 2025, 16, x. https://doi.org/10.3390/xxxxx
 
 ## Requiquirements
 The python environment we used for running all jupyter notebooks and training the Bi-LSTM and other classifiers is Python3.
