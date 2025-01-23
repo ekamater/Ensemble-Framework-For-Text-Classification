@@ -5,15 +5,6 @@ Specifically, the repository contains three folders. The first folder is named *
 
 Please cite our work as follows:
 
-@inproceedings{kamateri2025ensembleframework,
-      title={An Ensemble Framework for Text Classification}, 
-      author={Eleni Kamateri and Michail Salampasis},
-      year={2025},
-      booktitle={Information 2025, 16},
-}
-
-**OR**
-
 Kamateri, E.; Salampasis, M. An Ensemble Framework for Text Classification. Information 2025, 16(2), 85; https://doi.org/10.3390/info16020085.
 
 ## Requiquirements
