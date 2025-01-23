@@ -15,7 +15,7 @@ Please cite our work as follows:
 Citation: Kamateri, E.; Salampasis, M. An Ensemble Framework for Text Classification. Information 2025, 16, x. https://doi.org/10.3390/xxxxx
 
 ## Requiquirements
-The python environment we used for running all jupyter notebooks and training the Bi-LSTM classifier is Python3. Although we provide the versions we usd for these experiments, newer versions of these programs can be used as well.
+The python environment we used for running all jupyter notebooks and training the Bi-LSTM and other classifiers is Python3.
 
 Python3 environment (Version 3.6.13):
 
@@ -26,3 +26,4 @@ Python3 environment (Version 3.6.13):
     scikit-learn = 0.24.2
     regex = 2021.8.3
     ntlk = 3.6.5
+Although we provide the versions we used for the experiments, newer versions of these programs can also be used.
